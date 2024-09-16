@@ -10,7 +10,7 @@ body {
     flex-direction: column;
     min-height: 100vh;
     text-align: center;
-    background-color:beige;
+    background-color:#FFF2D5;
 }
 
 #wrapper {
@@ -20,7 +20,7 @@ body {
 
 header {
     width: 100%;
-    background-color: #514D4D;
+    background-color: #704300;
     color: #fff;
 }
 
@@ -63,7 +63,7 @@ nav ul li a:hover {
 .welcome h1 {
     margin-bottom: 1rem;
     font-size: 3rem;
-    color: #333;
+    color: #704300;
 }
 
 .welcome p {
@@ -74,7 +74,7 @@ nav ul li a:hover {
 }
 
 footer {
-    background-color: #514D4D;
+    background-color: #704300;
     color: #fff;
     padding: 1rem 0;
 }
