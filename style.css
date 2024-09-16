@@ -20,7 +20,7 @@ body {
 
 header {
     width: 100%;
-    background-color: #704300;
+    background-color: #523100;
     color: #fff;
 }
 
@@ -74,7 +74,7 @@ nav ul li a:hover {
 }
 
 footer {
-    background-color: #704300;
+    background-color: #523100;
     color: #fff;
     padding: 1rem 0;
 }
